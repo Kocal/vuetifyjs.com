@@ -6,7 +6,8 @@
       "closable",
       "icon",
       "transition",
-      "outline"
+      "outline",
+      "flat"
     ],
     "spec": false
   },

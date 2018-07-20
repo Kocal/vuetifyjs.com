@@ -21,12 +21,17 @@
     "outline": {
       "header": "Outline",
       "desc": "Outline alerts inherit their borders from the current color applied."
+    },
+    "flat": {
+      "header": "Flat",
+      "desc": "Flat alerts do not have background color nor borders."
     }
   },
   "props": {
     "dismissible": "Specifies that the Alert can be closed",
     "icon": "Designates a specific icon",
     "outline": "Alert will have an outline",
+    "flat": "Alert will be flat",
     "type": "Specify a **success**, **info**, **warning** or **error** alert. Uses the contextual color and a pre-defined icon."
   }
 }
